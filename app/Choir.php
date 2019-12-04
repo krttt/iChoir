@@ -3,7 +3,7 @@
 namespace App;
 
 use Illuminate\Database\Eloquent\Model;
-
+//Testing Jira-GitHub integration
 class Choir extends Model
 {
 
